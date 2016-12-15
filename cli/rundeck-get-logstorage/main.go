@@ -5,7 +5,8 @@ import (
 	"os"
 
 	"github.com/olekukonko/tablewriter"
-	rundeck "rundeck.v17"
+	"github.com/admdwrf/go-rundeck/sdk/v18"
+	"gopkg.in/alecthomas/kingpin.v2"
 )
 
 func main() {

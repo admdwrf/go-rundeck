@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	rundeck "rundeck.v17"
+	"github.com/admdwrf/go-rundeck/sdk/v18"
 )
 
 func main() {

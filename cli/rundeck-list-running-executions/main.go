@@ -3,9 +3,8 @@ package main
 import (
 	"fmt"
 	"os"
-
-	kingpin "gopkg.in/alecthomas/kingpin.v2"
-	rundeck "rundeck.v17"
+"github.com/admdwrf/go-rundeck/sdk/v18"
+	"gopkg.in/alecthomas/kingpin.v2"
 )
 
 var (

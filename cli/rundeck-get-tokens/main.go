@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
+	"github.com/admdwrf/go-rundeck/sdk/v18"
 	"github.com/olekukonko/tablewriter"
-	rundeck "rundeck.v17"
 )
 
 func main() {
